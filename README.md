@@ -1,6 +1,3 @@
-
-<h1 align="center"> yo </h1>
-
 ### :woman_technologist: &nbsp;About Me :
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
