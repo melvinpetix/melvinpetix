@@ -1,6 +1,6 @@
 ### :woman_technologist: &nbsp;About Me :
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🔭 I’m a devops Engineer and contributing to frontend and backend for building web applications.
 - ⚡ I love sleeping.
 - sleeping
 - sleeping 
